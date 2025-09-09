@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marceldevskd</h1>
 <h3 align="center">A passionate (mostly back-end) developer working towards his bachelors degree</h3>
 
-- 🔭 I’m currently working on [FisherDB](https://github.com/Marceldevskd/FisherDB)
+- 🔭 I’m currently working on [PromptLab](https://github.com/Marceldevskd/PromptLab)
 
 - 🌱 I’m currently learning **the wonderful C++ language**
 
